@@ -5,15 +5,12 @@
 I'm a software engineer who enjoys building modern, thoughtful, and scalable applications. Whether it's front-end interfaces or back-end APIs, I love creating software that makes life easier (and cooler 😎).
 </p>
 
----
-
 <!-- TWO COLUMN LAYOUT -->
 <table>
   <tr>
     <!-- LEFT COLUMN -->
     <td width="65%" valign="top">
 
-<!-- 🚀 What I'm Working On -->
 <h2>🚀 What I'm Working On</h2>
 
 - 🏀 <strong>NBA Chatbox App</strong> — real-time stats analysis + chat for basketball fans  
@@ -21,33 +18,29 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 - 📱 Exploring mobile app development using React Native  
 - 🧠 Learning more about AI/ML and how it can enhance everyday dev workflows  
 
-<!-- ⚡ Fun Facts -->
 <h2>⚡ Fun Facts</h2>
 
 - 🌴 I was born in Hawaii (No, I am not Hawaiin) 🌺  
 - 🏀 I love basketball — both watching and analyzing the game!  
 - 🎶 I curate playlists for every mood and coding sprint  
 
-<!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=jmorg-9&theme=codeSTACKr&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=jmorg-9&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=jmorg-9&theme=codeSTACKr&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorg-9&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </td>
 
 <!-- RIGHT COLUMN -->
 <td width="35%" valign="top">
 
-<!-- 💰 Donate -->
-<h2>💰 You Can Support Me</h2>
+<h2>💰 How You Can Support</h2>
 
 <a href="https://buymeacoffee.com/jmorg">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
-<!-- 💻 Tech Stack -->
 <h2>💻 Tech Stack</h2>
 
 <p>
@@ -83,7 +76,6 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-<!-- 📫 Let's Connect -->
 <h2>📫 Let's Connect</h2>
 
 <a href="https://linkedin.com/in/j-morg">
@@ -97,12 +89,10 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 </tr>
 </table>
 
----
-
-<p align="center">Thanks for stopping by! 🙌🏾</p>
+<p align="center">Thanks for stopping by!</p>
 
 <blockquote align="center">“First, solve the problem. Then, write the code.” – John Johnson</blockquote>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jmorg-9&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=0e75b6&style=flat" alt="jmorg-9" />
 </p>
