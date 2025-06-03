@@ -1,40 +1,108 @@
+<!-- HEADER (Full Width) -->
+<h1 align="center">👋🏽 Hi there, I'm Justin!</h1>
 
-# 👋🏽 Hi there, I'm Justin!
-
-I'm a passionate software engineer who enjoys building modern, thoughtful, and scalable applications. Whether it's front-end interfaces or back-end APIs, I love creating software that makes life easier (and cooler 😎).
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jmorg) 
-
-## 🚀 What I'm Working On
-- 🏀 [NBA Chatbox App](https://github.com/yourusername/nba-chatbox) — real-time stats + chat for basketball fans
-- 📰 **Save A Click Bot** — summarizes articles and flags clickbait so you don’t waste time
-- 📱 Exploring mobile app development using React Native
-- 🧪 Writing cleaner, faster unit tests with AutoFixture and in-memory DBs
-- 🧠 Learning more about AI/ML and how it can enhance everyday dev workflows
-
-## ⚡ Fun Facts
-- 🌴 I was born in Hawaii 🌺
-- 🏀 I love basketball—both watching and analyzing the game!
-- 🎶 I curate playlists for every mood and coding sprint
-
-## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-morg) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmorg.21@outlook.com) 
-
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-
-**Other Tools**
-- ![REST APIs](https://img.shields.io/badge/RESTful%20APIs-FF6F61?style=flat&logo=api&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jmorg-9&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+I'm a software engineer who enjoys building modern, thoughtful, and scalable applications. Whether it's front-end interfaces or back-end APIs, I love creating software that makes life easier (and cooler 😎).
+</p>
 
 ---
-Thanks for stopping by! 🙌🏾
 
-> “First, solve the problem. Then, write the code.” – John Johnson
-[![](https://visitcount.itsvg.in/api?id=jmorg-9&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- TWO COLUMN LAYOUT -->
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="65%" valign="top">
+
+<!-- 🚀 What I'm Working On -->
+<h2>🚀 What I'm Working On</h2>
+
+- 🏀 <strong>NBA Chatbox App</strong> — real-time stats analysis + chat for basketball fans  
+- 📰 <strong>Save A Click Bot</strong> — summarizes articles and flags clickbait so you don’t waste time  
+- 📱 Exploring mobile app development using React Native  
+- 🧠 Learning more about AI/ML and how it can enhance everyday dev workflows  
+
+<!-- ⚡ Fun Facts -->
+<h2>⚡ Fun Facts</h2>
+
+- 🌴 I was born in Hawaii (No, I am not Hawaiin) 🌺  
+- 🏀 I love basketball — both watching and analyzing the game!  
+- 🎶 I curate playlists for every mood and coding sprint  
+
+<!-- 📊 GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=jmorg-9&theme=codeSTACKr&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorg-9&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="35%" valign="top">
+
+<!-- 💰 Donate -->
+<h2>💰 You Can Support Me</h2>
+
+<a href="https://buymeacoffee.com/jmorg">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+<!-- 💻 Tech Stack -->
+<h2>💻 Tech Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+<p><strong>Other Tools</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6F61?style=flat&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+<!-- 📫 Let's Connect -->
+<h2>📫 Let's Connect</h2>
+
+<a href="https://linkedin.com/in/j-morg">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jmorg.21@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">Thanks for stopping by! 🙌🏾</p>
+
+<blockquote align="center">“First, solve the problem. Then, write the code.” – John Johnson</blockquote>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jmorg-9&icon=0&color=0" />
+</p>
