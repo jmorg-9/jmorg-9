@@ -26,7 +26,6 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmorg-9&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=jmorg-9&theme=codeSTACKr&hide_border=true" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorg-9&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
