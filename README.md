@@ -9,14 +9,7 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 <table>
   <tr>
     <!-- LEFT COLUMN -->
-    <td width="65%" valign="top">
-
-<h2>🚀 What I'm Working On</h2>
-
-- 🏀 <strong>NBA Chatbox App</strong> — real-time stats analysis + chat for basketball fans  
-- 📰 <strong>Save A Click Bot</strong> — summarizes articles and flags clickbait so you don’t waste time  
-- 📱 Exploring mobile app development using React Native  
-- 🧠 Learning more about AI/ML and how it can enhance everyday dev workflows  
+    <td width="65%" valign="top"> 
 
 <h2>⚡ Fun Facts</h2>
 
