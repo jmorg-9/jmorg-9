@@ -85,10 +85,6 @@ Check out my newest creation: <a href="https://the-clickbait-crusader-ui.vercel.
 </tr>
 </table>
 
-<p align="center">Thanks for stopping by!</p>
-
-<blockquote align="center">“First, solve the problem. Then, write the code.” – John Johnson</blockquote>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=0e75b6&style=flat" alt="jmorg-9" />
 </p>
