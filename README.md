@@ -2,7 +2,7 @@
 <h1 align="center">👋🏽 Hi there, I'm Justin!</h1>
 
 <p align="center">
-I'm a software engineer who enjoys building modern, thoughtful, and scalable applications. Whether it's front-end interfaces or back-end APIs, I love creating software that makes life easier (and cooler 😎).
+I'm a software engineer who enjoys building modern, thoughtful, and scalable applications. Whether it's front-end interfaces or back-end APIs, I love creating software that makes life easier.
 </p>
 
 <!-- TWO COLUMN LAYOUT -->
@@ -13,9 +13,13 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 
 <h2>⚡ Fun Facts</h2>
 
-- 🌴 I was born in Hawaii (No, I am not Hawaiin) 🌺  
-- 🏀 I love basketball — both watching and analyzing the game!  
-- 🎶 I curate playlists for every mood and coding sprint  
+🌺 I was born in Hawaii   
+🏀 I love basketball — both watching, teaching, and analyzing the game!  
+🎶 I curate playlists for every mood and coding sprint
+
+<h2>🚀 Latest Project</h2>
+
+Check out my newest creation: [**Clickbait Crusader**]([https://your-app-url.com](https://the-clickbait-crusader-ui.vercel.app/)) — The AI-powered tool that summarizes articles and calls out clickbait so you don't have to waste a click.
 
 <h2>📊 GitHub Stats</h2>
 
