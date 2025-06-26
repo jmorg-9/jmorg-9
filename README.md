@@ -19,7 +19,7 @@ I'm a software engineer who enjoys building modern, thoughtful, and scalable app
 
 <h2>🚀 Latest Project</h2>
 
-Check out my newest creation: [**Clickbait Crusader**]([https://your-app-url.com](https://the-clickbait-crusader-ui.vercel.app/)) — The AI-powered tool that summarizes articles and calls out clickbait so you don't have to waste a click.
+Check out my newest creation: <a href="https://the-clickbait-crusader-ui.vercel.app/"><strong>The Clickbait Crusader</strong></a> — The AI-powered tool that summarizes articles and calls out clickbait so you don't have to waste a click.
 
 <h2>📊 GitHub Stats</h2>
 
