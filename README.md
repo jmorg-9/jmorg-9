@@ -1,8 +1,7 @@
 <h1>〤 Meet JMorg 〤</h1>
 
 <p>
-  Software Engineer & Full-Court Thinker <img src="https://img.icons8.com/ios-filled/20/000000/brain.png" alt="brain icon" />
-<br/>
+  👨🏽‍💻 Software Engineer & Full-Court Thinker 🧠<br/>
   I like building software that feels good to use and looks even better.<br/>
   When I’m not coding, I’m probably watching hoops or building the perfect playlist 🎧
 </p>
