@@ -10,7 +10,7 @@
 ---
 
 ### 🧪 Latest Project  
-[**The Clickbait Crusader**](https://the-clickbait-crusader-ui.vercel.app/)  
+[**The Clickbait Crusader**](https://theclickbaitcrusader.com)  
 An AI-powered tool that summarizes articles and calls out clickbait — so you don’t have to waste a click.
 
 ---
