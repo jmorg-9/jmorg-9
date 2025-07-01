@@ -27,11 +27,15 @@ An AI-powered tool that summarizes articles and calls out clickbait — so you d
 
 ---
 
-<p align="center">
-  <a href="https://buymeacoffee.com/jmorg">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=a24e20&style=flat" alt="jmorg-9" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://buymeacoffee.com/jmorg">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=a24e20&style=flat" alt="jmorg-9" />
+    </td>
+  </tr>
+</table>
