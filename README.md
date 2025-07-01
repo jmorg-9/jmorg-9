@@ -2,7 +2,6 @@
 
 <p>
   Software Engineer & Full-Court Thinker<br/>
-  〤〤〤<br/>
   I like building software that feels good to use and looks even better.<br/>
   When I’m not coding, I’m probably watching hoops or building the perfect playlist 🎧
 </p>
