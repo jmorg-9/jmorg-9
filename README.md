@@ -1,9 +1,12 @@
-<h1 align="center">〤 Meet JMorg 〤</h1>
+<h1>〤 Meet JMorg 〤</h1>
 
-<p align="center">
-Software Engineer & Full-Court Thinker 〤 I like building software that feels good to use and looks even better<br/>
-When I’m not coding, I’m probably watching hoops or building the perfect playlist 🎧
+<p>
+  Software Engineer & Full-Court Thinker<br/>
+  〤〤〤<br/>
+  I like building software that feels good to use and looks even better.<br/>
+  When I’m not coding, I’m probably watching hoops or building the perfect playlist 🎧
 </p>
+
 
 ---
 
@@ -29,4 +32,7 @@ An AI-powered tool that summarizes articles and calls out clickbait — so you d
   <a href="https://buymeacoffee.com/jmorg">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=a24e20&style=flat" alt="jmorg-9" />
 </p>
