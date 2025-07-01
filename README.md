@@ -1,7 +1,7 @@
 <h1>〤 Meet JMorg 〤</h1>
 
 <p>
-  Software Engineer & Full-Court Thinker<br/>
+  Software Engineer & Full-Court Thinker <img src="https://komarev.com/ghpvc/?username=jmorg-9&label=Profile%20Views&color=a24e20&style=flat" alt="jmorg-9" /><br/>
   I like building software that feels good to use and looks even better.<br/>
   When I’m not coding, I’m probably watching hoops or building the perfect playlist 🎧
 </p>
